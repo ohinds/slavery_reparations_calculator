@@ -20,6 +20,7 @@ slavery in the United States.
 * http://www.colorlines.com/articles/10-things-you-should-know-about-slavery-and-wont-learn-django
 * http://www.slaverybyanothername.com/pbs-film/ (film)
 
+
 ### Estimation methods and considerations
 
 * http://onlinelibrary.wiley.com/doi/10.1111/ssqu.12151/full
@@ -29,6 +30,11 @@ slavery in the United States.
 * http://blogs.wsj.com/numbers/the-slavery-reparations-calculations-1286/ (subscription required)
 * http://www.wsj.com/news/articles/SB995228253461746936 (subscription required)
 * http://www.blackagendareport.com/content/calculating-reparations-15-million-each-slave-descendant-us
+* Charles J. Ogletree Jr
+* John Conyers Jr
+  - HR 40, the Commission to Study Reparation Proposals for African Americans Act
+* David W. Blight
+* Walter Johnson
 
 ### Data
 * http://gabriel-zucman.eu/capitalisback/
